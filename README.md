@@ -8,6 +8,6 @@ Here is my [Soundcloud 🔊](https://soundcloud.com/esebyron/tracks).
 ### I love fitness 🏋🏼‍♂️💪🏼 
 My [Instagram 📷](https://www.instagram.com/esebyron/) and my [TikTok 🎵](https://www.tiktok.com/@monstruosdelamasa)
 
-## What's in my mind right now? 💭
+## What's in my mind right now? 🧠💭
 
 I'm currently looking to expand my professional career, trying to fit into the  digital art world by mixing multimedia and coding to create engaging web designs.
