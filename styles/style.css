@@ -1,0 +1,55 @@
+/* body elements and overall looks */
+
+body {
+  
+  background-color: #091057;
+  margin: 16px;
+  padding: 5%;
+
+/* Text */
+  font-family: Helvetica, Arial, sans-serif;
+  color: #009990;
+  }
+
+  .home-link {
+    background-color: #074799;
+    padding: 1%;
+    border: #009990;
+    border-radius: 8px;
+    color: #E1FFBB;
+    text-decoration: none;
+  }
+button {
+    background-color: #074799;
+    font-size: 24px;
+    color: #E1FFBB;
+    border-radius: 8px;
+    padding: 5px 12px;
+  }
+
+
+.home-title {
+  display: inline-block;
+  text-align: left;
+  font-size: 96px;
+  font-weight: bold;
+}
+
+.home-subtitle {
+  text-align: left;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.home-paragraph {
+  font-size: 16px;
+  padding: 10px 0;
+}
+
+.home-img {
+  margin: 0 25% 0 25%;
+  width: 150px;
+  height: auto;
+  border: solid 4px #009990;
+  border-radius: 0 12% 0 12%;
+}
